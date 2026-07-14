@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/teamtender_repository_generator.egg-info/PKG-INFO
+src/teamtender_repository_generator.egg-info/SOURCES.txt
+src/teamtender_repository_generator.egg-info/dependency_links.txt
+src/teamtender_repository_generator.egg-info/top_level.txt
+src/trg/__init__.py
+src/trg/cli.py
+src/trg/main.py
