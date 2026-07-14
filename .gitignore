@@ -3,28 +3,24 @@
 
 # Python
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
+*.egg-info/
 
 # VS Code
 .vscode/
 
-# Operating System
-.DS_Store
-Thumbs.db
-
-# Logs
-logs/
-
 # Output
+logs/
 output/
 
 # Build
 build/
 dist/
-*.egg-info/
 
-# Test Cache
+# Test cache
 .pytest_cache/
 .mypy_cache/
+
+# OS
+.DS_Store
+Thumbs.db
